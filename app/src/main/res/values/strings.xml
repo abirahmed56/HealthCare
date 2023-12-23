@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Health Care</string>
+    <string name="about_us">HealthCare is an android app developed by Team Trimik to solve health related issues Digitally . That is totally a ad and cost free app that you may need in your daily life . Team Trimik is really thankful to you if you are using this app . </string>
+
+    <string-array name="day_names">
+        <item>sat</item>
+        <item>sun</item>
+        <item>mon</item>
+        <item>tue</item>
+        <item>wed</item>
+        <item>thu</item>
+        <item>fri</item>
+    </string-array>
+
+    <string-array name="BloodTypes">
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>O-</item>
+    </string-array>
+
+
+    <string-array name="districts">
+        <item>Barguna</item>
+        <item>Barisal</item>
+        <item>Bhola</item>
+        <item>Jhalokati</item>
+        <item>Patuakhali</item>
+        <item>Pirojpur</item>
+        <item>Bandarban</item>
+        <item>Brahmanbaria</item>
+        <item>Chandpur</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Cox Bazar</item>
+        <item>Feni</item>
+        <item>Khagrachari</item>
+        <item>Lakshmipur</item>
+        <item>Noakhali</item>
+        <item>Rangamati</item>
+        <item>Dhaka</item>
+        <item>Faridpur</item>
+        <item>Gazipur</item>
+        <item>Gopalganj</item>
+        <item>Kishoreganj</item>
+        <item>Madaripur</item>
+        <item>Manikganj</item>
+        <item>Munshiganj</item>
+        <item>Narayanganj</item>
+        <item>Narsingdi</item>
+        <item>Rajbari</item>
+        <item>Shariatpur</item>
+        <item>Tangail</item>
+        <item>Jamalpur</item>
+        <item>Mymensingh</item>
+        <item>Netrakona</item>
+        <item>Sherpur</item>
+        <item>Bagerhat</item>
+        <item>Chuadanga</item>
+        <item>Jessore</item>
+        <item>Jhenaidah</item>
+        <item>Khulna</item>
+        <item>Kushtia</item>
+        <item>Magura</item>
+        <item>Meherpur</item>
+        <item>Narail</item>
+        <item>Shatkhira</item>
+        <item>Bogra</item>
+        <item>Jaipurhat</item>
+        <item>Naogaon</item>
+        <item>Natore</item>
+        <item>Nawabganj</item>
+        <item>Pabna</item>
+        <item>Rajshahi</item>
+        <item>Sirajganj</item>
+        <item>Rangpur</item>
+        <item>Gaibandha</item>
+        <item>Kurigram</item>
+        <item>Nilphamari</item>
+        <item>Lalmonirhat</item>
+        <item>Dinajpur</item>
+        <item>Thakurgaon</item>
+        <item>Panchagarh</item>
+        <item>Habiganj</item>
+        <item>Maulvibazar</item>
+        <item>Sunamganj</item>
+        <item>Sylhet</item>
+        <item>All</item>
+    </string-array>
+    <string-array name="divisions">
+        <item>Sylhet</item>
+        <item>Dhaka</item>
+        <item>Mymensingh</item>
+        <item>Khulna</item>
+        <item>Chittagong</item>
+        <item>Rajshahi</item>
+        <item>Rangpur</item>
+        <item>Barishal</item>
+    </string-array>
+    <string-array name="TypeM">
+        <item>Liquid</item>
+        <item>Tablets</item>
+        <item>Capsules</item>
+        <item>Topical medicines</item>
+        <item>Suppositories</item>
+        <item>Drops</item>
+        <item>Inhalers</item>
+        <item>Injections</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="What">
+        <item>Covid-19</item>
+        <item>Women Care</item>
+        <item>Devices</item>
+        <item>Homeopathy</item>
+        <item>Nutrition</item>
+        <item>Vitamins</item>
+        <item>Heart</item>
+        <item>Cancer</item>
+        <item>Diabetes</item>
+        <item>Penumonia</item>
+        <item>Mental</item>
+        <item>Phycology</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_statistices">Statistices</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_statistics">Statistics</string>
+</resources>
